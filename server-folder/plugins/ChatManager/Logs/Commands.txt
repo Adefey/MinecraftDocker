@@ -1,0 +1,148 @@
+[Thu Aug 26 21:48:38 MSK 2021] Adefe: /kits
+[Thu Aug 26 21:48:43 MSK 2021] Adefe: /kit Notch
+[Thu Aug 26 21:56:28 MSK 2021] Adefe: /gamemode 1
+[Thu Aug 26 22:00:56 MSK 2021] Adefe: /tg
+[Thu Aug 26 22:14:17 MSK 2021] Adefe: /tp 14000 1000 13423
+[Thu Aug 26 22:15:08 MSK 2021] Adefe: /tp 14000 1000 -13423
+[Thu Aug 26 22:17:39 MSK 2021] Adefe: /cleanlight
+[Thu Aug 26 22:22:21 MSK 2021] Adefe: /l 123456
+[Thu Aug 26 22:34:46 MSK 2021] Adefe: /tpr
+[Thu Aug 26 22:34:51 MSK 2021] Adefe: /tprandom
+[Thu Aug 26 22:35:07 MSK 2021] Adefe: /tprandom
+[Thu Aug 26 22:36:05 MSK 2021] Adefe: /tprandom
+[Thu Aug 26 22:39:08 MSK 2021] Adefe: /warp set a
+[Thu Aug 26 22:39:12 MSK 2021] Adefe: /warp a
+[Thu Aug 26 22:39:20 MSK 2021] Adefe: /warp remove a
+[Thu Aug 26 22:39:26 MSK 2021] Adefe: /warp delete a
+[Thu Aug 26 22:39:46 MSK 2021] Adefe: /holograms
+[Thu Aug 26 22:39:52 MSK 2021] Adefe: /holograms help
+[Thu Aug 26 22:40:10 MSK 2021] Adefe: /holograms delete <a> СОЛЕСЬЕ
+[Thu Aug 26 22:40:18 MSK 2021] Adefe: /holograms create <a> СОЛЕСЬЕ
+[Thu Aug 26 22:40:33 MSK 2021] Adefe: /holograms create <adefe> СОЛЕСЬЕ
+[Thu Aug 26 22:40:40 MSK 2021] Adefe: /holograms create a СОЛЕСЬЕ
+[Thu Aug 26 23:07:16 MSK 2021] Adefe: /spawn
+[Thu Aug 26 23:07:41 MSK 2021] Adefe: /t
+[Tue Aug 31 18:21:11 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 18:28:59 MSK 2021] Adefe: /lightcleaner:cleanlight
+[Tue Aug 31 18:39:54 MSK 2021] Adefe: /kits
+[Tue Aug 31 18:40:01 MSK 2021] Adefe: /kit start
+[Tue Aug 31 18:55:10 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 19:09:00 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 20:59:03 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 21:02:33 MSK 2021] Adefe: /gm1
+[Tue Aug 31 21:02:36 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 21:07:25 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 21:16:53 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 21:21:30 MSK 2021] Adefe: /gm 1
+[Tue Aug 31 21:24:26 MSK 2021] Adefe: //schematic load 31082021BMSTU
+[Tue Aug 31 21:24:30 MSK 2021] Adefe: //paste
+[Tue Aug 31 21:24:46 MSK 2021] Adefe: //paste
+[Sat Sep 11 15:59:10 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:04:11 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:30:49 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:33:45 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:37:04 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:42:31 MSK 2021] Adefe: /rm 1
+[Fri Sep 17 20:42:33 MSK 2021] Adefe: /gm 1
+[Fri Sep 17 20:51:45 MSK 2021] Adefe: /tp @s -568 86 77
+[Fri Sep 17 20:52:37 MSK 2021] Adefe: //schematic list
+[Fri Sep 17 20:52:52 MSK 2021] Adefe: //schematic load BMSTU_28_03_2021
+[Fri Sep 17 20:54:49 MSK 2021] Adefe: //paste
+[Sat Sep 18 00:02:24 MSK 2021] Adefe: /kill
+[Sat Sep 18 00:02:33 MSK 2021] Adefe: /kill Adefe
+[Sat Sep 18 00:03:33 MSK 2021] Adefe: /tp 0 100 0
+[Sat Sep 18 00:06:03 MSK 2021] Adefe: //schematic list
+[Sat Sep 18 00:06:16 MSK 2021] Adefe: /schem load "BAUMANKA.schem"
+[Sat Sep 18 00:06:40 MSK 2021] Adefe: //clear
+[Sat Sep 18 00:06:44 MSK 2021] Adefe: //clearhistory
+[Sat Sep 18 00:10:39 MSK 2021] Adefe: /weather sun
+[Sat Sep 18 00:12:32 MSK 2021] Adefe: /tp @s -639 78 -127
+[Sat Sep 18 00:19:48 MSK 2021] Adefe: //schematic list
+[Sat Sep 18 00:19:59 MSK 2021] Adefe: /schem load "BMSTU_28_03_2021.schem"
+[Sat Sep 18 00:25:17 MSK 2021] Adefe: //paste -ae
+[Sat Sep 18 00:29:43 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 00:29:52 MSK 2021] Adefe: /tp -387 100 225
+[Sat Sep 18 00:44:15 MSK 2021] Adefe: //schematic list
+[Sat Sep 18 00:44:19 MSK 2021] Adefe: /schem load "BMSTU_28_03_2021.schem"
+[Sat Sep 18 00:46:05 MSK 2021] Adefe: //paste -e
+[Sat Sep 18 11:46:01 MSK 2021] Adefe: //wans
+[Sat Sep 18 11:46:04 MSK 2021] Adefe: //wand
+[Sat Sep 18 11:46:17 MSK 2021] Adefe: //pos2
+[Sat Sep 18 11:46:19 MSK 2021] Adefe: //set 0
+[Sat Sep 18 11:46:44 MSK 2021] Adefe: /brush apply sphere smooth
+[Sat Sep 18 11:47:50 MSK 2021] Adefe: /brush smooth 10
+[Sat Sep 18 11:48:42 MSK 2021] Adefe: //pos1
+[Sat Sep 18 11:48:52 MSK 2021] Adefe: //pos2
+[Sat Sep 18 11:48:53 MSK 2021] Adefe: //set 0
+[Sat Sep 18 11:49:07 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:10 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:12 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:13 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:15 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:16 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:17 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:41 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:43 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:44 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:45 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:49:51 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:06 MSK 2021] Adefe: /brush smooth 4
+[Sat Sep 18 11:50:16 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:17 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:27 MSK 2021] Adefe: /brush smooth 4
+[Sat Sep 18 11:50:28 MSK 2021] Adefe: /brush smooth 4
+[Sat Sep 18 11:50:30 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:31 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:32 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:50:41 MSK 2021] Adefe: /time set 0
+[Sat Sep 18 11:51:49 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:51:50 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:52:03 MSK 2021] Adefe: //wand
+[Sat Sep 18 11:52:13 MSK 2021] Adefe: //pos1
+[Sat Sep 18 11:52:26 MSK 2021] Adefe: //pos2
+[Sat Sep 18 11:52:41 MSK 2021] Adefe: //replace oak_log air
+[Sat Sep 18 11:52:48 MSK 2021] Adefe: //replace oak_leaves air
+[Sat Sep 18 11:53:34 MSK 2021] Adefe: //pos2
+[Sat Sep 18 11:53:35 MSK 2021] Adefe: //set 0
+[Sat Sep 18 11:56:20 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:56:21 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:56:22 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:56:23 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:56:23 MSK 2021] Adefe: //undo
+[Sat Sep 18 11:57:32 MSK 2021] Adefe: //set stone
+[Sat Sep 18 11:57:57 MSK 2021] Adefe: //pos1
+[Sat Sep 18 11:58:08 MSK 2021] Adefe: //pos2
+[Sat Sep 18 11:58:17 MSK 2021] Adefe: //replace acacia_log air
+[Sat Sep 18 11:58:23 MSK 2021] Adefe: //replace acacia_leaves air
+[Sat Sep 18 11:58:35 MSK 2021] Adefe: //replace acacia_wood air
+[Sat Sep 18 12:00:19 MSK 2021] Adefe: //set grass
+[Sat Sep 18 12:00:22 MSK 2021] Adefe: //undo
+[Sat Sep 18 12:00:28 MSK 2021] Adefe: //set dirt
+[Sat Sep 18 12:01:15 MSK 2021] Adefe: //set stone
+[Sat Sep 18 12:02:14 MSK 2021] Adefe: //pos1
+[Sat Sep 18 12:02:36 MSK 2021] Adefe: //pos2
+[Sat Sep 18 12:02:38 MSK 2021] Adefe: //set 0
+[Sat Sep 18 12:04:40 MSK 2021] Adefe: //replace stone dirt
+[Sat Sep 18 12:04:54 MSK 2021] Adefe: //replace cobblestonestone dirt
+[Sat Sep 18 12:05:01 MSK 2021] Adefe: //replace cobblestonestone dirt
+[Sat Sep 18 12:05:11 MSK 2021] Adefe: //replace cobblestone dirt
+[Sat Sep 18 12:06:07 MSK 2021] Adefe: //pos2
+[Sat Sep 18 12:06:10 MSK 2021] Adefe: //replace cobblestonestone dirt
+[Sat Sep 18 12:06:14 MSK 2021] Adefe: //replace stone dirt
+[Sat Sep 18 12:07:11 MSK 2021] Adefe: //pos1
+[Sat Sep 18 12:07:20 MSK 2021] Adefe: //pos2
+[Sat Sep 18 12:07:22 MSK 2021] Adefe: //set 0
+[Sat Sep 18 12:11:21 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 12:14:53 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 12:22:40 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 12:30:24 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 12:34:27 MSK 2021] Adefe: /gm 1
+[Sat Sep 18 12:38:51 MSK 2021] Adefe: /gm 1
+[Wed Sep 22 20:45:52 GMT 2021] Adefe: /gm 1
+[Wed Sep 22 20:46:57 GMT 2021] Adefe: //schematic list
+[Wed Sep 22 20:47:00 GMT 2021] Adefe: /schem load "BMSTU_28_03_2021.schem"
+[Wed Sep 22 20:47:38 GMT 2021] Adefe: /say a
+[Wed Sep 22 20:47:42 GMT 2021] Adefe: /gm 1
+[Wed Sep 22 20:47:46 GMT 2021] Adefe: /gm 0
+[Wed Sep 22 20:48:09 GMT 2021] Adefe: /gm 1
+[Wed Sep 22 21:06:45 GMT 2021] Adefe: /spawn

@@ -1,0 +1,4 @@
+id: "LAND"
+abstract: true
+
+noise-equation: "(-y / b) + 1"

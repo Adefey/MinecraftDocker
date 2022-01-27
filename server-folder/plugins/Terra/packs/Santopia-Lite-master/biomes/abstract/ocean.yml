@@ -1,0 +1,7 @@
+id: "OCEAN"
+abstract: true
+
+variables:
+  s: 36
+
+noise-equation: "(-y / s) + 1"

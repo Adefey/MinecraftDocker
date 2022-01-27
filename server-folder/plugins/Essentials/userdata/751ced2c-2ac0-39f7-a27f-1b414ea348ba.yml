@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.18.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1632344805493
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632344969547
+  login: 1632344778868
+  kits:
+    notch: 1630003723879
+    start: 1630424401502
+money: '0'
+last-account-name: Adefe
+lastlocation:
+  world: 8db2894a-6c72-44fc-a4d6-027bb23ee165
+  world-name: BMSTUCraft
+  x: 110.50455917655843
+  y: 93.0
+  z: 225.36588812045687
+  yaw: 66.45002746582031
+  pitch: 12.599991798400879
+logoutlocation:
+  world: 8db2894a-6c72-44fc-a4d6-027bb23ee165
+  world-name: BMSTUCraft
+  x: 114.72092372116224
+  y: 94.0
+  z: 224.53075115358692
+  yaw: 84.30291748046875
+  pitch: 4.049931049346924

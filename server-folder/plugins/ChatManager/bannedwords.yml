@@ -1,0 +1,8 @@
+Banned-Words:
+  - badwordexample
+  
+#This is if incease sensitivity is enabled to prevent false positives.
+#Words here wont be effected by the antiswear IF increase sensitivity is enabled.
+#Works for all chat, commands, and sign checks.
+Whitelisted_Words:
+  - an alt

@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+    bmstucraft:
+        build:
+            context: .
+            args:
+                MIN_RAM: ${MIN_RAM}
+                MAX_RAM: ${MAX_RAM}
+                FLAGS: ${FLAGS}
+        volumes:
+            - server-folder:/server
+        ports:
+            - 25565:25565 #server
+            - 25566:25566 #rcon
+        container_name: ${CONTAINER_NAME}
+
+volumes:
+    server-folder:
